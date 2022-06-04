@@ -29,7 +29,9 @@ const Layout = () => {
                         <span className="navbar-brand af-navbar-list-item">A.F.C</span>
                         <button className="navbar-toggler" data-toggle="collapse"
                             data-target="#mynavbar">
-                            <span className="navbar-toggler-icon"></span>
+                            <span className="navbar-toggler-icon">
+                                More
+                            </span>
                         </button>
                         <div className="collapse navbar-collapse" id="mynavbar">
                             <ul className="navbar-nav mr-auto af-navbar-list-item">
